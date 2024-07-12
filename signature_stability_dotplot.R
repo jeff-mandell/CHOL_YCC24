@@ -61,5 +61,5 @@ dotplot = ggplot(data = for_plot,
   guides(size = guide_legend(reverse = TRUE))
 
 # save plot
-ggsave(file = 'figures/figure3.png', plot = dotplot, height = 6, width = 7, units = 'in')
+ggsave(file = 'figures/figure3.png', plot = dotplot, height = 4, width = 9, units = 'in')
 
