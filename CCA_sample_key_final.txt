@@ -1,0 +1,1212 @@
+Unique_Patient_Identifier	fluke_status	pM	source	cca_type	cBioPortal_PATIENT_ID	DZ_EXTENT	HBV	HCV	Country	data_type	jusakul_id	Tumor_Sample_Barcode	tumor_stage	ID	Sequencing method	Subtype	Sex	Age	Histology	pT	pN	pStage	Gender	Histology 1	Smoking	Viral infection	fgfr2_fusion	other_fusion
+P-0000114-T01-IM3	negative	1	MSK	IHC	P-0000114	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0000154-T01-IM3	negative	0	MSK	IHC	P-0000154	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0000189-T01-IM3	negative	0	MSK	IHC	P-0000189	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0000192-T02-IM3	negative	1	MSK	IHC	P-0000192	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0000298-T01-IM3	negative	0	MSK	IHC	P-0000298	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0000327-T01-IM3	negative	0	MSK	IHC	P-0000327	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0000328-T01-IM3	negative	0	MSK	IHC	P-0000328	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0000362-T01-IM3	negative	1	MSK	IHC	P-0000362	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0000402-T01-IM3	negative	1	MSK	IHC	P-0000402	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0000637-T01-IM3	negative	0	MSK	IHC	P-0000637	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0000643-T01-IM3	negative	0	MSK	IHC	P-0000643	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0000644-T01-IM3	negative	1	MSK	IHC	P-0000644	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0000713-T01-IM3	negative	1	MSK	IHC	P-0000713	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0000766-T01-IM3	negative	1	MSK	IHC	P-0000766	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0001001-T01-IM3	negative	1	MSK	IHC	P-0001001	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0001185-T01-IM3	negative	1	MSK	IHC	P-0001185	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0001292-T01-IM3	negative	1	MSK	IHC	P-0001292	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0001359-T01-IM3	negative	0	MSK	IHC	P-0001359	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0001403-T01-IM3	negative	1	MSK	IHC	P-0001403	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0001496-T01-IM3	negative	1	MSK	IHC	P-0001496	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0001539-T01-IM3	negative	0	MSK	IHC	P-0001539	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0001638-T01-IM3	negative	1	MSK	IHC	P-0001638	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0001858-T01-IM3	negative	0	MSK	IHC	P-0001858	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0001933-T01-IM3	negative	0	MSK	IHC	P-0001933	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0002059-T01-IM3	negative	0	MSK	IHC	P-0002059	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0002064-T01-IM3	negative	0	MSK	IHC	P-0002064	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0002119-T01-IM3	negative	1	MSK	IHC	P-0002119	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0002135-T01-IM3	negative	0	MSK	IHC	P-0002135	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0002143-T01-IM3	negative	0	MSK	IHC	P-0002143	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0002213-T01-IM3	negative	1	MSK	IHC	P-0002213	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0002286-T01-IM3	negative	1	MSK	IHC	P-0002286	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0002675-T01-IM3	negative	1	MSK	IHC	P-0002675	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0002906-T01-IM3	negative	0	MSK	IHC	P-0002906	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0002937-T01-IM3	negative	1	MSK	IHC	P-0002937	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0003160-T01-IM5	negative	0	MSK	IHC	P-0003160	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0003177-T01-IM5	negative	1	MSK	IHC	P-0003177	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0003187-T02-IM5	negative	1	MSK	IHC	P-0003187	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0003478-T01-IM5	negative	1	MSK	IHC	P-0003478	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0003590-T01-IM5	negative	0	MSK	IHC	P-0003590	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0003701-T01-IM5	negative	1	MSK	IHC	P-0003701	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0003795-T01-IM5	negative	0	MSK	IHC	P-0003795	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0003812-T01-IM5	negative	0	MSK	IHC	P-0003812	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0003946-T01-IM3	negative	0	MSK	IHC	P-0003946	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0004080-T01-IM5	negative	0	MSK	IHC	P-0004080	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0004252-T01-IM5	negative	1	MSK	IHC	P-0004252	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0005000-T01-IM5	negative	0	MSK	IHC	P-0005000	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0005112-T01-IM5	negative	0	MSK	IHC	P-0005112	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0005140-T01-IM5	negative	1	MSK	IHC	P-0005140	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0005161-T01-IM5	negative	0	MSK	IHC	P-0005161	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0005255-T01-IM5	negative	0	MSK	IHC	P-0005255	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0005561-T01-IM5	negative	1	MSK	IHC	P-0005561	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0005835-T01-IM5	negative	0	MSK	IHC	P-0005835	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0006083-T01-IM5	negative	1	MSK	IHC	P-0006083	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0006176-T01-IM5	negative	1	MSK	IHC	P-0006176	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0006242-T01-IM5	negative	0	MSK	IHC	P-0006242	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0006244-T01-IM5	negative	0	MSK	IHC	P-0006244	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0006353-T01-IM5	negative	1	MSK	IHC	P-0006353	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0006553-T01-IM5	negative	0	MSK	IHC	P-0006553	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0006583-T01-IM5	negative	1	MSK	IHC	P-0006583	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0006871-T01-IM5	negative	1	MSK	IHC	P-0006871	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0006885-T01-IM5	negative	0	MSK	IHC	P-0006885	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0007016-T01-IM5	negative	0	MSK	IHC	P-0007016	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0007107-T01-IM5	negative	1	MSK	IHC	P-0007107	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0007205-T01-IM5	negative	1	MSK	IHC	P-0007205	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0007213-T01-IM5	negative	1	MSK	IHC	P-0007213	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0007275-T01-IM5	negative	0	MSK	IHC	P-0007275	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0007417-T01-IM5	negative	1	MSK	IHC	P-0007417	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0007510-T01-IM5	negative	1	MSK	IHC	P-0007510	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0007520-T01-IM5	negative	0	MSK	IHC	P-0007520	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0007599-T01-IM5	negative	1	MSK	IHC	P-0007599	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0007782-T01-IM5	negative	1	MSK	IHC	P-0007782	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0008020-T01-IM5	negative	1	MSK	IHC	P-0008020	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0008146-T01-IM5	negative	1	MSK	IHC	P-0008146	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0008182-T01-IM5	negative	1	MSK	IHC	P-0008182	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0008237-T01-IM5	negative	1	MSK	IHC	P-0008237	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0008286-T01-IM5	negative	0	MSK	IHC	P-0008286	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0008287-T01-IM5	negative	1	MSK	IHC	P-0008287	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0008648-T01-IM5	negative	1	MSK	IHC	P-0008648	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0008658-T01-IM5	negative	0	MSK	IHC	P-0008658	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0009191-T01-IM5	negative	0	MSK	IHC	P-0009191	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0009306-T01-IM5	negative	1	MSK	IHC	P-0009306	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0009513-T01-IM5	negative	0	MSK	IHC	P-0009513	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0009596-T01-IM5	negative	1	MSK	IHC	P-0009596	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0009611-T01-IM5	negative	1	MSK	IHC	P-0009611	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0009825-T01-IM5	negative	0	MSK	IHC	P-0009825	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0009916-T01-IM5	negative	0	MSK	IHC	P-0009916	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0009961-T01-IM5	negative	1	MSK	IHC	P-0009961	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0010070-T01-IM5	negative	0	MSK	IHC	P-0010070	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0010299-T01-IM5	negative	0	MSK	IHC	P-0010299	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0010331-T01-IM5	negative	1	MSK	IHC	P-0010331	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0010533-T01-IM5	negative	1	MSK	IHC	P-0010533	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0010574-T01-IM5	negative	1	MSK	IHC	P-0010574	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0010615-T01-IM5	negative	1	MSK	IHC	P-0010615	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0010701-T01-IM5	negative	1	MSK	IHC	P-0010701	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0010723-T01-IM5	negative	1	MSK	IHC	P-0010723	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0010733-T01-IM5	negative	1	MSK	IHC	P-0010733	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0010761-T01-IM5	negative	1	MSK	IHC	P-0010761	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0010851-T01-IM5	negative	1	MSK	IHC	P-0010851	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0011032-T01-IM5	negative	1	MSK	IHC	P-0011032	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0011050-T01-IM5	negative	0	MSK	IHC	P-0011050	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0011076-T01-IM5	negative	1	MSK	IHC	P-0011076	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0011104-T01-IM5	negative	0	MSK	IHC	P-0011104	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0011215-T01-IM5	negative	1	MSK	IHC	P-0011215	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0011223-T01-IM5	negative	1	MSK	IHC	P-0011223	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0011240-T01-IM5	negative	1	MSK	IHC	P-0011240	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0011270-T01-IM5	negative	0	MSK	IHC	P-0011270	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0011394-T01-IM5	negative	0	MSK	IHC	P-0011394	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0011416-T01-IM5	negative	0	MSK	IHC	P-0011416	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0011516-T01-IM5	negative	1	MSK	IHC	P-0011516	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0011556-T01-IM5	negative	0	MSK	IHC	P-0011556	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0011566-T01-IM5	negative	1	MSK	IHC	P-0011566	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0012003-T01-IM5	negative	0	MSK	IHC	P-0012003	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0012155-T01-IM5	negative	1	MSK	IHC	P-0012155	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0012369-T01-IM5	negative	0	MSK	IHC	P-0012369	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0012538-T01-IM5	negative	0	MSK	IHC	P-0012538	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0012626-T01-IM5	negative	1	MSK	IHC	P-0012626	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0012639-T01-IM5	negative	1	MSK	IHC	P-0012639	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0012644-T01-IM5	negative	1	MSK	IHC	P-0012644	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0012666-T01-IM5	negative	1	MSK	IHC	P-0012666	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0013241-T01-IM5	negative	0	MSK	IHC	P-0013241	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0013405-T01-IM5	negative	1	MSK	IHC	P-0013405	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0013971-T01-IM5	negative	1	MSK	IHC	P-0013971	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0014155-T01-IM5	negative	1	MSK	IHC	P-0014155	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0014261-T01-IM6	negative	1	MSK	IHC	P-0014261	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0014432-T01-IM6	negative	1	MSK	IHC	P-0014432	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0014762-T01-IM6	negative	1	MSK	IHC	P-0014762	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0014846-T01-IM6	negative	1	MSK	IHC	P-0014846	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0015327-T01-IM6	negative	1	MSK	IHC	P-0015327	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0015686-T01-IM6	negative	0	MSK	IHC	P-0015686	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0015738-T01-IM6	negative	1	MSK	IHC	P-0015738	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0015942-T01-IM6	negative	0	MSK	IHC	P-0015942	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0016006-T01-IM6	negative	1	MSK	IHC	P-0016006	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0016167-T01-IM6	negative	1	MSK	IHC	P-0016167	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0016195-T01-IM6	negative	0	MSK	IHC	P-0016195	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0016436-T01-IM6	negative	1	MSK	IHC	P-0016436	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0016599-T01-IM6	negative	0	MSK	IHC	P-0016599	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0016621-T01-IM6	negative	1	MSK	IHC	P-0016621	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0016712-T01-IM6	negative	1	MSK	IHC	P-0016712	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0016737-T01-IM6	negative	1	MSK	IHC	P-0016737	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0016805-T01-IM6	negative	1	MSK	IHC	P-0016805	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0016954-T01-IM6	negative	0	MSK	IHC	P-0016954	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0016988-T01-IM6	negative	1	MSK	IHC	P-0016988	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0017120-T01-IM6	negative	1	MSK	IHC	P-0017120	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0017265-T01-IM6	negative	0	MSK	IHC	P-0017265	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0017268-T01-IM6	negative	1	MSK	IHC	P-0017268	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0017511-T01-IM6	negative	0	MSK	IHC	P-0017511	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0017696-T01-IM6	negative	1	MSK	IHC	P-0017696	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0017928-T01-IM6	negative	1	MSK	IHC	P-0017928	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0017971-T01-IM6	negative	1	MSK	IHC	P-0017971	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0018110-T01-IM6	negative	0	MSK	IHC	P-0018110	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0018307-T01-IM6	negative	1	MSK	IHC	P-0018307	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0018664-T01-IM6	negative	1	MSK	IHC	P-0018664	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0018902-T01-IM6	negative	1	MSK	IHC	P-0018902	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0019285-T01-IM6	negative	1	MSK	IHC	P-0019285	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0019382-T01-IM6	negative	0	MSK	IHC	P-0019382	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0019665-T01-IM6	negative	0	MSK	IHC	P-0019665	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0019995-T01-IM6	negative	0	MSK	IHC	P-0019995	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0020345-T01-IM6	negative	1	MSK	IHC	P-0020345	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0020410-T01-IM6	negative	0	MSK	IHC	P-0020410	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0020671-T01-IM6	negative	0	MSK	IHC	P-0020671	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0020719-T01-IM6	negative	1	MSK	IHC	P-0020719	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0020746-T01-IM6	negative	1	MSK	IHC	P-0020746	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0020961-T01-IM6	negative	1	MSK	IHC	P-0020961	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0020972-T01-IM6	negative	0	MSK	IHC	P-0020972	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0020976-T01-IM6	negative	1	MSK	IHC	P-0020976	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0021071-T01-IM6	negative	0	MSK	IHC	P-0021071	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0021327-T01-IM6	negative	0	MSK	IHC	P-0021327	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0021672-T01-IM6	negative	1	MSK	IHC	P-0021672	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0021676-T01-IM6	negative	0	MSK	IHC	P-0021676	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0021923-T01-IM6	negative	1	MSK	IHC	P-0021923	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0022089-T01-IM6	negative	0	MSK	IHC	P-0022089	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0022253-T01-IM6	negative	1	MSK	IHC	P-0022253	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0022369-T01-IM6	negative	1	MSK	IHC	P-0022369	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0022478-T01-IM6	negative	1	MSK	IHC	P-0022478	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0022544-T01-IM6	negative	0	MSK	IHC	P-0022544	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0022663-T01-IM6	negative	1	MSK	IHC	P-0022663	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0023103-T01-IM6	negative	1	MSK	IHC	P-0023103	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0023266-T01-IM6	negative	0	MSK	IHC	P-0023266	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0023297-T01-IM6	negative	0	MSK	IHC	P-0023297	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0023349-T01-IM6	negative	1	MSK	IHC	P-0023349	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0023374-T01-IM6	negative	1	MSK	IHC	P-0023374	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0023593-T01-IM6	negative	1	MSK	IHC	P-0023593	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0023672-T01-IM6	negative	1	MSK	IHC	P-0023672	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0023701-T01-IM6	negative	1	MSK	IHC	P-0023701	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0023703-T01-IM6	negative	1	MSK	IHC	P-0023703	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0023722-T01-IM6	negative	1	MSK	IHC	P-0023722	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0023976-T01-IM6	negative	0	MSK	IHC	P-0023976	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0024085-T01-IM6	negative	1	MSK	IHC	P-0024085	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0024099-T01-IM6	negative	0	MSK	IHC	P-0024099	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0024187-T01-IM6	negative	1	MSK	IHC	P-0024187	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0024466-T01-IM6	negative	1	MSK	IHC	P-0024466	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0024469-T01-IM6	negative	0	MSK	IHC	P-0024469	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0024484-T01-IM6	negative	1	MSK	IHC	P-0024484	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0024645-T01-IM6	negative	0	MSK	IHC	P-0024645	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0024678-T01-IM6	negative	1	MSK	IHC	P-0024678	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0024693-T01-IM6	negative	0	MSK	IHC	P-0024693	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0025197-T01-IM6	negative	0	MSK	IHC	P-0025197	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0025289-T01-IM6	negative	1	MSK	IHC	P-0025289	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0025511-T01-IM6	negative	1	MSK	IHC	P-0025511	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0025678-T01-IM6	negative	1	MSK	IHC	P-0025678	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0025771-T01-IM6	negative	1	MSK	IHC	P-0025771	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0025807-T01-IM6	negative	0	MSK	IHC	P-0025807	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0025835-T01-IM6	negative	1	MSK	IHC	P-0025835	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0025873-T01-IM6	negative	0	MSK	IHC	P-0025873	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0026007-T01-IM6	negative	1	MSK	IHC	P-0026007	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0026213-T01-IM6	negative	1	MSK	IHC	P-0026213	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0026424-T01-IM6	negative	0	MSK	IHC	P-0026424	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0027028-T01-IM6	negative	0	MSK	IHC	P-0027028	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0027200-T01-IM6	negative	0	MSK	IHC	P-0027200	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0027218-T01-IM6	negative	0	MSK	IHC	P-0027218	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0027544-T01-IM6	negative	1	MSK	IHC	P-0027544	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0027623-T01-IM6	negative	1	MSK	IHC	P-0027623	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0027646-T01-IM6	negative	0	MSK	IHC	P-0027646	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0027691-T01-IM6	negative	1	MSK	IHC	P-0027691	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0027847-T01-IM6	negative	0	MSK	IHC	P-0027847	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0027866-T01-IM6	negative	1	MSK	IHC	P-0027866	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0028209-T01-IM6	negative	0	MSK	IHC	P-0028209	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0028442-T01-IM6	negative	0	MSK	IHC	P-0028442	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0028619-T01-IM6	negative	0	MSK	IHC	P-0028619	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0028624-T01-IM6	negative	1	MSK	IHC	P-0028624	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0029067-T01-IM6	negative	1	MSK	IHC	P-0029067	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0029340-T01-IM6	negative	0	MSK	IHC	P-0029340	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0029363-T01-IM6	negative	0	MSK	IHC	P-0029363	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0029803-T01-IM6	negative	0	MSK	IHC	P-0029803	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0029964-T01-IM6	negative	1	MSK	IHC	P-0029964	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0030232-T01-IM6	negative	0	MSK	IHC	P-0030232	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0030835-T01-IM6	negative	1	MSK	IHC	P-0030835	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0030895-T01-IM6	negative	0	MSK	IHC	P-0030895	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0031039-T01-IM6	negative	1	MSK	IHC	P-0031039	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0031204-T01-IM6	negative	0	MSK	IHC	P-0031204	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0031309-T02-IM6	negative	1	MSK	IHC	P-0031309	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0032033-T01-IM6	negative	0	MSK	IHC	P-0032033	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0032208-T01-IM6	negative	0	MSK	IHC	P-0032208	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0032234-T01-IM6	negative	1	MSK	IHC	P-0032234	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0032273-T01-IM6	negative	0	MSK	IHC	P-0032273	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0032507-T01-IM6	negative	0	MSK	IHC	P-0032507	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0032563-T01-IM6	negative	1	MSK	IHC	P-0032563	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0032872-T01-IM6	negative	1	MSK	IHC	P-0032872	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0033136-T01-IM6	negative	0	MSK	IHC	P-0033136	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0033605-T01-IM6	negative	1	MSK	IHC	P-0033605	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0033745-T01-IM6	negative	0	MSK	IHC	P-0033745	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0033769-T01-IM6	negative	0	MSK	IHC	P-0033769	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0034399-T01-IM6	negative	0	MSK	IHC	P-0034399	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0034901-T01-IM6	negative	1	MSK	IHC	P-0034901	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0035035-T01-IM6	negative	1	MSK	IHC	P-0035035	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0035071-T01-IM6	negative	1	MSK	IHC	P-0035071	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0035318-T01-IM6	negative	0	MSK	IHC	P-0035318	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0035868-T01-IM6	negative	1	MSK	IHC	P-0035868	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+P-0036277-T01-IM6	negative	1	MSK	IHC	P-0036277	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0036358-T01-IM6	negative	1	MSK	IHC	P-0036358	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0036445-T02-IM6	negative	0	MSK	IHC	P-0036445	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0036559-T01-IM6	negative	0	MSK	IHC	P-0036559	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0036910-T01-IM6	negative	1	MSK	IHC	P-0036910	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0036922-T01-IM6	negative	1	MSK	IHC	P-0036922	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0036980-T01-IM6	negative	0	MSK	IHC	P-0036980	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0037102-T01-IM6	negative	0	MSK	IHC	P-0037102	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0037237-T01-IM6	negative	1	MSK	IHC	P-0037237	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0037617-T01-IM6	negative	1	MSK	IHC	P-0037617	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+P-0037787-T01-IM6	negative	0	MSK	IHC	P-0037787	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0037859-T01-IM6	negative	0	MSK	IHC	P-0037859	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0037881-T01-IM6	negative	1	MSK	IHC	P-0037881	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0037916-T01-IM6	negative	1	MSK	IHC	P-0037916	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0037962-T01-IM6	negative	1	MSK	IHC	P-0037962	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0038153-T01-IM6	negative	0	MSK	IHC	P-0038153	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0038537-T01-IM6	negative	1	MSK	IHC	P-0038537	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0038547-T01-IM6	negative	0	MSK	IHC	P-0038547	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0039269-T01-IM6	negative	0	MSK	IHC	P-0039269	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0039329-T01-IM6	negative	0	MSK	IHC	P-0039329	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+P-0039370-T01-IM6	negative	0	MSK	IHC	P-0039370	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+TCGA-3X-AAV9	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-3X-AAV9-01A-72D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-3X-AAVA	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-3X-AAVA-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-3X-AAVB	negative	1	TCGA	IHC	""	""	""	""	""	""	""	TCGA-3X-AAVB-01A-31D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-3X-AAVE	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-3X-AAVE-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-4G-AAZF	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-4G-AAZF-01A-12D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-4G-AAZG	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-4G-AAZG-01A-11D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-4G-AAZO	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-4G-AAZO-01A-12D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-4G-AAZR	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-4G-AAZR-01A-11D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-4G-AAZT	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-4G-AAZT-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-5A-A8ZF	negative		TCGA	IHC	""	""	""	""	""	""	""	TCGA-5A-A8ZF-01A-12D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-5A-A8ZG	negative		TCGA	IHC	""	""	""	""	""	""	""	TCGA-5A-A8ZG-01A-11D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-W5-AA2G	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA2G-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-W5-AA2H	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA2H-01A-31D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-W5-AA2I	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA2I-01A-32D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-W5-AA2J	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA2J-01A-31D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-W5-AA2K	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA2K-01A-11D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-W5-AA2M	negative	1	TCGA	EHC	""	""	""	""	""	""	""	TCGA-W5-AA2M-01A-11D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-W5-AA2O	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA2O-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-W5-AA2Q	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA2Q-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+TCGA-W5-AA2R	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA2R-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-W5-AA2T	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA2T-01A-12D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-W5-AA2U	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA2U-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-W5-AA2W	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA2W-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+TCGA-W5-AA2X	negative	1	TCGA	EHC	""	""	""	""	""	""	""	TCGA-W5-AA2X-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-W5-AA2Z	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA2Z-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+TCGA-W5-AA30	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA30-01A-31D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-W5-AA31	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA31-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-W5-AA33	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA33-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-W5-AA34	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA34-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-W5-AA36	negative	1	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA36-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-W5-AA38	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA38-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-W5-AA39	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W5-AA39-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-W6-AA0S	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W6-AA0S-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-W6-AA0T	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-W6-AA0T-01A-31D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-W7-A93N	negative	0	TCGA	EHC	""	""	""	""	""	""	""	TCGA-W7-A93N-01A-11D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-W7-A93O	negative	0	TCGA	EHC	""	""	""	""	""	""	""	TCGA-W7-A93O-01A-31D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-W7-A93P	negative	0	TCGA	EHC	""	""	""	""	""	""	""	TCGA-W7-A93P-01A-12D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-WD-A7RX	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-WD-A7RX-01A-12D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-YR-A95A	negative	1	TCGA	EHC	""	""	""	""	""	""	""	TCGA-YR-A95A-01A-12D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-ZD-A8I3	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-ZD-A8I3-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-ZH-A8Y1	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-ZH-A8Y1-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	TRUE
+TCGA-ZH-A8Y2	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-ZH-A8Y2-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-ZH-A8Y3	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-ZH-A8Y3-01A-11D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-ZH-A8Y4	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-ZH-A8Y4-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-ZH-A8Y5	negative	1	TCGA	IHC	""	""	""	""	""	""	""	TCGA-ZH-A8Y5-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	TRUE
+TCGA-ZH-A8Y6	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-ZH-A8Y6-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-ZH-A8Y7	negative	1	TCGA	IHC	""	""	""	""	""	""	""	TCGA-ZH-A8Y7-01A-21D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-ZH-A8Y8	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-ZH-A8Y8-01A-51D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+TCGA-ZK-AAYZ	negative		TCGA	IHC	""	""	""	""	""	""	""	TCGA-ZK-AAYZ-01A-12D-A46P-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+TCGA-ZU-A8S4	negative	0	TCGA	IHC	""	""	""	""	""	""	""	TCGA-ZU-A8S4-01A-11D-A417-09	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+borad_1	negative	0	borad	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+borad_2	negative	1	borad	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+borad_3	negative	1	borad	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+borad_4	negative	1	borad	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+borad_5	negative	1	borad	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+borad_6	negative	1	borad	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+chan-on_00990196T	negative		chan-on	EHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+chan-on_0715T	negative		chan-on	EHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+chan-on_17231203T	negative		chan-on	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+chan-on_77071507T	negative		chan-on	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+gao_P0872T	negative	0	gao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+gao_P4139T	negative	0	gao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+gao_P5549T	negative	0	gao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+gao_P7251T	negative	0	gao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+gao_P7913T	negative	0	gao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+gao_P9678T	negative	0	gao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL01	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL02	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL04	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL06	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL07	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL08	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL09	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL12	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL13	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL14	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL15	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL18	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL19	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL20	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL24	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL25	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL26	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL27	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL28	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL35	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL37	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL40	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL42	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL44	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL47	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL48	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL49	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL50	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL52	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL53	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jiao_CHOL54	negative		jiao	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+jusakul_T_CCA_BR_1	negative		jusakul	IHC	""	""	Negative	Negative	Brazil	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_BR_2	negative	1	jusakul	IHC	""	""	Negative	Negative	Brazil	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_BR_3	negative	0	jusakul	IHC	""	""	N/A	N/A	Brazil	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_CH_1	negative	0	jusakul	PHC	""	""	Positive	Negative	China	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_CH_2	positive	0	jusakul	PHC	""	""	Negative	Negative	China	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_CH_3	negative	0	jusakul	PHC	""	""	Negative	Negative	China	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_CH_4	negative	0	jusakul	EHC	""	""	Negative	Negative	China	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_CH_5	negative	0	jusakul	IHC	""	""	Negative	Negative	China	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_CH_6	negative	0	jusakul	IHC	""	""	Negative	Negative	China	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_CH_7	negative	0	jusakul	IHC	""	""	Negative	Negative	China	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_CH_8	negative	0	jusakul	IHC	""	""	Negative	Negative	China	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_FR_1	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_11	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_12	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_13	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_14	negative	0	jusakul	IHC	""	""	Negative	Positive	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_15	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_16	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_2	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_3	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_4	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_5	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_6	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_7	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_8	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_FR_9	negative	0	jusakul	IHC	""	""	Negative	Negative	France	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_IT_1	negative	0	jusakul	IHC	""	""	N/A	N/A	Italy	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_IT_2	negative	0	jusakul	IHC	""	""	N/A	N/A	Italy	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_IT_3	negative	0	jusakul	IHC	""	""	N/A	N/A	Italy	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_IT_4	negative	0	jusakul	IHC	""	""	N/A	N/A	Italy	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_JP_1	negative	0	jusakul	IHC	""	""	Negative	Negative	Japan	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_JP_10	negative	0	jusakul	IHC	""	""	Negative	Negative	Japan	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_JP_15	negative		jusakul	IHC	""	""	Negative	Negative	Japan	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_JP_172	negative		jusakul	PHC	""	""	Negative	Negative	Japan	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_JP_173	negative		jusakul	PHC	""	""	Negative	Negative	Japan	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_JP_174	negative		jusakul	IHC	""	""	Negative	Negative	Japan	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_JP_2	negative	0	jusakul	IHC	""	""	Negative	Negative	Japan	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_JP_210	negative		jusakul	IHC	""	""	Negative	Negative	Japan	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_JP_3	negative	0	jusakul	IHC	""	""	Negative	Negative	Japan	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_JP_4	negative	0	jusakul	IHC	""	""	Negative	Negative	Japan	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_JP_5	negative	0	jusakul	IHC	""	""	Negative	Positive	Japan	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_JP_6	negative	0	jusakul	IHC	""	""	Positive	Negative	Japan	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	TRUE
+jusakul_T_CCA_JP_7	negative	0	jusakul	IHC	""	""	Negative	Negative	Japan	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_JP_8	negative	0	jusakul	IHC	""	""	Positive	Negative	Japan	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_JP_9	negative	0	jusakul	IHC	""	""	Negative	Negative	Japan	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_KR_2	negative		jusakul	IHC	""	""	Negative	Negative	Korea	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_1	negative		jusakul	IHC	""	""	N/A	N/A	Romania	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_RO_13	negative	0	jusakul	DCC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_14	negative	0	jusakul	DCC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_15	negative	0	jusakul	PHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_16	negative	0	jusakul	DCC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_17	negative	0	jusakul	DCC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_18	negative	0	jusakul	IHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_19	negative	0	jusakul	IHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_2	negative	1	jusakul	PHC	""	""	Negative	Negative	Romania	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_RO_20	negative	0	jusakul	PHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_21	negative		jusakul	IHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_22	negative	0	jusakul	PHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_23	negative	0	jusakul	PHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_25	negative	0	jusakul	IHC	""	""	Negative	Positive	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_26	negative	0	jusakul	PHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_27	negative	0	jusakul	IHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_29	negative	0	jusakul	PHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_3	negative	0	jusakul	PHC	""	""	Negative	Negative	Romania	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_RO_30	negative	0	jusakul	PHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_31	negative	0	jusakul	DCC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_33	negative		jusakul	PHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_35	negative	0	jusakul	IHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_36	negative	0	jusakul	IHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_37	negative	0	jusakul	IHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_38	negative	0	jusakul	IHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_4	negative		jusakul	IHC	""	""	N/A	N/A	Romania	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_RO_40	negative	0	jusakul	PHC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_RO_5	negative		jusakul	IHC	""	""	Negative	Negative	Romania	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_RO_6	negative		jusakul	IHC	""	""	N/A	N/A	Romania	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	TRUE
+jusakul_T_CCA_RO_7	negative	0	jusakul	DCC	""	""	Negative	Negative	Romania	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_RO_9	negative	0	jusakul	DCC	""	""	Negative	Negative	Romania	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_1	negative	0	jusakul	IHC	""	""	Positive	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_10	negative	0	jusakul	IHC	""	""	Negative	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	TRUE
+jusakul_T_CCA_SG_11	negative	0	jusakul	IHC	""	""	Negative	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_12	negative	0	jusakul	IHC	""	""	Positive	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	TRUE
+jusakul_T_CCA_SG_13	negative	0	jusakul	IHC	""	""	N/A	N/A	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_14	negative		jusakul	IHC	""	""	Negative	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_15	negative	0	jusakul	IHC	""	""	No record	No record	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_16	negative	0	jusakul	IHC	""	""	Positive	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_17	negative	0	jusakul	IHC	""	""	N/A	N/A	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_18	negative	0	jusakul	EHC	""	""	Negative	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_19	negative	0	jusakul	IHC	""	""	Negative	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_2	negative	0	jusakul	IHC	""	""	Positive	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_20	negative	0	jusakul	IHC	""	""	Negative	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_21	negative	0	jusakul	IHC	""	""	Positive	Positive	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_22	negative	0	jusakul	PHC	""	""	N/A	N/A	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_23	negative	1	jusakul	IHC	""	""	N/A	N/A	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_24	negative	0	jusakul	PHC	""	""	Negative	Negative	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_25	negative	0	jusakul	IHC	""	""	Negative	Negative	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_26	negative	1	jusakul	PHC	""	""	Negative	N/A	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_28	negative	0	jusakul	IHC	""	""	Negative	Negative	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_29	negative	0	jusakul	IHC	""	""	Negative	N/A	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_3	negative	0	jusakul	IHC	""	""	Negative	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_30	negative	0	jusakul	EHC	""	""	Negative	Negative	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_31	negative	1	jusakul	IHC	""	""	Positive	N/A	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_33	negative	0	jusakul	PHC	""	""	N/A	N/A	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_34	negative	0	jusakul	PHC	""	""	N/A	N/A	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_35	negative	0	jusakul	EHC	""	""	N/A	N/A	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_36	negative	0	jusakul	IHC	""	""	Negative	Negative	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_37	negative	0	jusakul	PHC	""	""	N/A	N/A	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_38	negative	0	jusakul	EHC	""	""	N/A	N/A	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_39	negative	0	jusakul	EHC	""	""	Negative	Negative	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_4	negative	0	jusakul	IHC	""	""	Positive	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_40	negative		jusakul	IHC	""	""	Negative	Negative	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_41	negative		jusakul	IHC	""	""	Positive	Negative	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_42	negative		jusakul	PHC	""	""	N/A	N/A	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_43	negative	0	jusakul	IHC	""	""	Negative	Negative	Singapore	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_SG_5	negative	0	jusakul	IHC	""	""	Negative	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_6	negative	0	jusakul	IHC	""	""	Negative	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_7	negative	0	jusakul	EHC	""	""	Negative	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_8	negative	0	jusakul	IHC	""	""	Positive	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_SG_9	negative	1	jusakul	IHC	""	""	Negative	Negative	Singapore	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_1	positive	0	jusakul	IHC	""	""	Positive	Negative	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_10	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_100	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_101	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_103	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_104	positive	1	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_105	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_106	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_107	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_108	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_109	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_11	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_110	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_111	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_112	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_113	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_114	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_115	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_116	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_117	positive	0	jusakul	PHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_118	positive	0	jusakul	PHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_119	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_12	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_120	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_121	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_122	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_123	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_124	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_125	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_126	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_127	positive	0	jusakul	PHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_128	positive	0	jusakul	PHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_129	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_13	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_14	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_15	positive	0	jusakul	PHC	""	""	Negative	Negative	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_16	positive	0	jusakul	IHC	""	""	Positive	Negative	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_17	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_18	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_19	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_2	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_20	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_21	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_22	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_23	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_24	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_25	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_26	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_27	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_28	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_29	positive	1	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_3	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_30	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_31	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_32	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_33	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_34	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_35	positive	1	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_37	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_38	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_39	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_4	positive	1	jusakul	PHC	""	""	N/A	N/A	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_41	positive	1	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_42	positive	0	jusakul	PHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_43	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_44	positive	1	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_45	positive	0	jusakul	PHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_46	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_47	positive		jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_48	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_49	positive	1	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_5	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_50	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_51	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_52	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_53	positive	0	jusakul	IHC	""	""	Positive	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_54	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_55	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_56	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_57	positive	1	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_58	positive	0	jusakul	PHC	""	""	Negative	Negative	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_59	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_6	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_60	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_62	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_63	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_64	positive	1	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_65	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_66	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_67	positive	1	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_68	positive	1	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_69	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_7	positive	0	jusakul	PHC	""	""	Negative	Negative	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_70	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_71	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_72	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_73	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_74	positive	1	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_75	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_76	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_77	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_78	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_79	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_8	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_81	positive	1	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_82	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_83	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_84	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_85	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_86	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_87	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_88	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_89	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_9	positive	0	jusakul	IHC	""	""	Negative	Negative	Thailand	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+jusakul_T_CCA_TH_90	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_91	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_92	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_93	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_94	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_95	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_96	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_97	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_98	positive	0	jusakul	PHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+jusakul_T_CCA_TH_99	positive	0	jusakul	IHC	""	""	N/A	N/A	Thailand	tgs	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD101T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_103	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD102T	negative	0	nakamura	IHC	""	""	Negative	Positive	Japan	""	jusakul_T_CCA_JP_104	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD103T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_105	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD105T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_106	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD106T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_107	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD107T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_108	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD108T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_109	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD109T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_110	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD10T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_20	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD110T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_111	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD111T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_112	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD112T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_113	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD113T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_114	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD114T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_115	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD116T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_116	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD117T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_117	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD118T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_118	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD119T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_119	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD11T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_21	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD120T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_120	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD121T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_121	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD122T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_122	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD123T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_123	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD124T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_124	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD125T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_125	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD126T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_126	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD127T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_127	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD128T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_128	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD12T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_22	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD130T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_129	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD132T	negative	0	nakamura	IHC	""	""	Positive	Negative	Japan	""	jusakul_T_CCA_JP_130	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD133T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_131	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD135T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_132	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD136T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_133	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD137T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_134	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD138T	negative	0	nakamura	IHC	""	""	Negative	Positive	Japan	""	jusakul_T_CCA_JP_135	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD13T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_23	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD140T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_136	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD142T	negative	0	nakamura	IHC	""	""	Negative	Positive	Japan	""	jusakul_T_CCA_JP_137	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD143T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_138	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD144T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_139	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD145T	negative	0	nakamura	IHC	""	""	Negative	Positive	Japan	""	jusakul_T_CCA_JP_140	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD146T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_141	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD147T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_142	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD148T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_143	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD149T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_144	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD14T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_24	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD150T	negative	0	nakamura	IHC	""	""	Positive	Negative	Japan	""	jusakul_T_CCA_JP_145	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD151T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_146	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD152T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_147	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD153T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_148	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD154T	negative	0	nakamura	IHC	""	""	Negative	Positive	Japan	""	jusakul_T_CCA_JP_149	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD155T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_150	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD156T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_151	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD157T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_152	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD158T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_153	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD159T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_154	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD15T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_25	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD160T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_155	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD161T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_156	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD162T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_157	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD163T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_158	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD164T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_159	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD165T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_160	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD166T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_161	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD168T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_162	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD169T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_163	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD16T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_26	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD18T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_27	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD197T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_164	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+nakamura_BD199T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_165	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD19T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_28	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD1T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_11	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD200T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_166	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD201T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_167	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD203T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_168	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD204T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_169	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD205T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_170	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD207T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_171	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD20T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_29	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD211T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_175	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD212T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_176	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD213T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_177	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD214T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_178	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD217T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_181	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD218T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_182	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD219T	negative	0	nakamura	IHC	""	""	Positive	Negative	Japan	""	jusakul_T_CCA_JP_183	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD220T	negative	0	nakamura	IHC	""	""	Negative	Positive	Japan	""	jusakul_T_CCA_JP_184	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD221T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_185	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD222T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_186	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD223T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_187	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD224T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_188	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD225T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_189	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD226T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_190	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD227T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_191	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD228T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_192	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD229T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_193	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD22T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_30	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD230T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_194	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD231T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_195	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD232T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_196	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD233T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_197	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD234T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_198	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD235T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_199	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD236T	negative	0	nakamura	PHC	""	""	Negative	Positive	Japan	""	jusakul_T_CCA_JP_200	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD237T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_201	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD238T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_202	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD239T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_203	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD23T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_31	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD240T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_204	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD241T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_205	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD242T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_206	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD243T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_207	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+nakamura_BD244T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_208	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD245T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_209	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD24T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_32	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD25T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_33	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD26T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_34	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD27T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_35	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD28T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_36	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD29T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_37	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD2T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_12	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD30T	negative	0	nakamura	IHC	""	""	Positive	Negative	Japan	""	jusakul_T_CCA_JP_38	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD31T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_39	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD32T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_40	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD34T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_41	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD35T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_42	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD36T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_43	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD37T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_44	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD38T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_45	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD39T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_46	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD3T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_13	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD40T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_47	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD41T	negative	0	nakamura	IHC	""	""	Negative	Positive	Japan	""	jusakul_T_CCA_JP_48	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD42T	negative	0	nakamura	IHC	""	""	Negative	Positive	Japan	""	jusakul_T_CCA_JP_49	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD43T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_50	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD44T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_51	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD45T	negative	0	nakamura	IHC	""	""	Negative	Positive	Japan	""	jusakul_T_CCA_JP_52	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD46T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_53	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD47T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_54	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD48T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_55	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD49T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_56	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD4T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_14	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD50T	negative	0	nakamura	IHC	""	""	Positive	Negative	Japan	""	jusakul_T_CCA_JP_57	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD51T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_58	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD52T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_59	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD53T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_60	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD54T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_61	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD55T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_62	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD56T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_63	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD57T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_64	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD58T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_65	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD59T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_66	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD60T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_67	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD61T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_68	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD62T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_69	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD63T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_70	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD64T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_71	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD65T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_72	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD66T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_73	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD67T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_74	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD68T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_75	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD69T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_76	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD6T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_16	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD70T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_77	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD71T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_78	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD72T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_79	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD73T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_80	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD74T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_81	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD75T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_82	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD76T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_83	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD77T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_84	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD78T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_85	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD79T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_86	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD7T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_17	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD80T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_87	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD83T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_88	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD84T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_89	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD85T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_90	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD86T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_91	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD87T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_92	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD88T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_93	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD8T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_18	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD91T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_95	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD92T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_96	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD93T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_97	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD94T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_98	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD95T	negative	0	nakamura	IHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_99	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD96T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_100	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD98T	negative	0	nakamura	DCC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_101	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD99T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_102	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nakamura_BD9T	negative	0	nakamura	PHC	""	""	Negative	Negative	Japan	""	jusakul_T_CCA_JP_19	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+nepal_Patient1	negative		nepal	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	
+nepal_Patient10	negative		nepal	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	
+nepal_Patient11	negative		nepal	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	
+nepal_Patient12	negative		nepal	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	
+nepal_Patient14	negative		nepal	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	
+nepal_Patient15	negative		nepal	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	
+nepal_Patient2	negative		nepal	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	
+nepal_Patient3	negative		nepal	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	
+nepal_Patient4	negative		nepal	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	
+nepal_Patient7	negative		nepal	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	
+nepal_Patient8	negative		nepal	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	
+nepal_Patient9	negative		nepal	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	
+s_C_04RTFT_T001_d	negative	0	MSK	IHC	p_C_04RTFT	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_0FN8V5_T001_d	negative	0	MSK	IHC	p_C_0FN8V5	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_34WM96_T001_d	negative	1	MSK	IHC	p_C_34WM96	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_4EF0F6_T001_d	negative	0	MSK	IHC	p_C_4EF0F6	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_62YLL6_T001_d	negative	0	MSK	IHC	p_C_62YLL6	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_7WJ17T_T001_d	negative	0	MSK	IHC	p_C_7WJ17T	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_AF4LDR_T001_d	negative	0	MSK	IHC	p_C_AF4LDR	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_AWA446_T001_d	negative	0	MSK	IHC	p_C_AWA446	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_D6R9UW_T001_d	negative	0	MSK	IHC	p_C_D6R9UW	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_FKEEFP_T001_d	negative	0	MSK	IHC	p_C_FKEEFP	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_FPCVVU_T001_d	negative	0	MSK	IHC	p_C_FPCVVU	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_LRJXH7_T001_d	negative	0	MSK	IHC	p_C_LRJXH7	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_M3D7NU_T001_d	negative	0	MSK	IHC	p_C_M3D7NU	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_MNR49F_T001_d	negative	0	MSK	IHC	p_C_MNR49F	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_NJT27K_T001_d	negative	0	MSK	IHC	p_C_NJT27K	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_RU6NNY_T001_d	negative	0	MSK	IHC	p_C_RU6NNY	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_RVJRMV_T001_d	negative	0	MSK	IHC	p_C_RVJRMV	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_C_RXFEX7_T001_d	negative	0	MSK	IHC	p_C_RXFEX7	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_001_T	negative	0	MSK	IHC	p_WJ_chol_001	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+s_WJ_chol_002_T	negative	0	MSK	IHC	p_WJ_chol_002	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+s_WJ_chol_003_T	negative	0	MSK	IHC	p_WJ_chol_003	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+s_WJ_chol_004_T	negative	0	MSK	IHC	p_WJ_chol_004	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_005_T	negative	0	MSK	IHC	p_WJ_chol_005	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_006_T	negative	0	MSK	IHC	p_WJ_chol_006	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_007_T	negative	0	MSK	IHC	p_WJ_chol_007	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_008_T	negative	1	MSK	IHC	p_WJ_chol_008	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_009_T	negative	0	MSK	IHC	p_WJ_chol_009	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_010_T	negative	0	MSK	IHC	p_WJ_chol_010	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_011_T	negative	0	MSK	IHC	p_WJ_chol_011	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_012_T	negative	0	MSK	IHC	p_WJ_chol_012	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_013_T	negative	0	MSK	IHC	p_WJ_chol_013	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_014_T	negative	0	MSK	IHC	p_WJ_chol_014	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_015_T	negative	1	MSK	IHC	p_WJ_chol_015	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_016_T	negative	0	MSK	IHC	p_WJ_chol_016	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_017_T1	negative	0	MSK	IHC	p_WJ_chol_017	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_019_T	negative	0	MSK	IHC	p_WJ_chol_019	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_020_T	negative	0	MSK	IHC	p_WJ_chol_020	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_021_T	negative	1	MSK	IHC	p_WJ_chol_021	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_022_T	negative	0	MSK	IHC	p_WJ_chol_022	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_023_T	negative	1	MSK	IHC	p_WJ_chol_023	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+s_WJ_chol_024_T	negative	0	MSK	IHC	p_WJ_chol_024	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_025_T	negative	0	MSK	IHC	p_WJ_chol_025	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_026_T	negative	0	MSK	IHC	p_WJ_chol_026	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_027_T	negative	0	MSK	IHC	p_WJ_chol_027	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_028_T	negative	0	MSK	IHC	p_WJ_chol_028	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+s_WJ_chol_029_T	negative	0	MSK	IHC	p_WJ_chol_029	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_030_T	negative	0	MSK	IHC	p_WJ_chol_030	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_031_T	negative	1	MSK	IHC	p_WJ_chol_031	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_033_T	negative	0	MSK	IHC	p_WJ_chol_033	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_034_T	negative	0	MSK	IHC	p_WJ_chol_034	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_035_T	negative	0	MSK	IHC	p_WJ_chol_035	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_036_T	negative	0	MSK	IHC	p_WJ_chol_036	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_037_T	negative	0	MSK	IHC	p_WJ_chol_037	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+s_WJ_chol_038_T	negative	1	MSK	IHC	p_WJ_chol_038	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_040_T	negative	0	MSK	IHC	p_WJ_chol_040	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_041_T	negative	1	MSK	IHC	p_WJ_chol_041	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_043_T	negative	1	MSK	IHC	p_WJ_chol_043	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_044_T	negative	0	MSK	IHC	p_WJ_chol_044	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_045_T	negative	1	MSK	IHC	p_WJ_chol_045	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_046_T	negative	1	MSK	IHC	p_WJ_chol_046	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_047_T	negative	0	MSK	IHC	p_WJ_chol_047	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_048_T	negative	0	MSK	IHC	p_WJ_chol_048	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_049_T	negative	1	MSK	IHC	p_WJ_chol_049	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+s_WJ_chol_050_T	negative	0	MSK	IHC	p_WJ_chol_050	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+s_WJ_chol_051_T	negative	0	MSK	IHC	p_WJ_chol_051	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+s_WJ_chol_053_T	negative	0	MSK	IHC	p_WJ_chol_053	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_057_T	negative	0	MSK	IHC	p_WJ_chol_057	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_058_T	negative	0	MSK	IHC	p_WJ_chol_058	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_059_T	negative	0	MSK	IHC	p_WJ_chol_059	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_060_T	negative	0	MSK	IHC	p_WJ_chol_060	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_061_T	negative	0	MSK	IHC	p_WJ_chol_061	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_062_T	negative	0	MSK	IHC	p_WJ_chol_062	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_063_T	negative	0	MSK	IHC	p_WJ_chol_063	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_064_T	negative	0	MSK	IHC	p_WJ_chol_064	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_065_T	negative	0	MSK	IHC	p_WJ_chol_065	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_066_T	negative	1	MSK	IHC	p_WJ_chol_066	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_067_T	negative	1	MSK	IHC	p_WJ_chol_067	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_068_T	negative	0	MSK	IHC	p_WJ_chol_068	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+s_WJ_chol_070_T	negative	0	MSK	IHC	p_WJ_chol_070	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_071_T	negative	0	MSK	IHC	p_WJ_chol_071	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_072_T	negative	0	MSK	IHC	p_WJ_chol_072	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_074_T	negative	0	MSK	IHC	p_WJ_chol_074	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_075_T	negative	0	MSK	IHC	p_WJ_chol_075	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_076_T	negative	0	MSK	IHC	p_WJ_chol_076	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_077_T	negative	1	MSK	IHC	p_WJ_chol_077	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_078_T	negative	0	MSK	IHC	p_WJ_chol_078	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_082_T	negative	0	MSK	IHC	p_WJ_chol_082	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_083_T	negative	0	MSK	IHC	p_WJ_chol_083	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_084_T	negative	0	MSK	IHC	p_WJ_chol_084	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_085_T	negative	0	MSK	IHC	p_WJ_chol_085	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+s_WJ_chol_086_T	negative	0	MSK	IHC	p_WJ_chol_086	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_089_T	negative	0	MSK	IHC	p_WJ_chol_089	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_090_T	negative	1	MSK	IHC	p_WJ_chol_090	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_091_T	negative	0	MSK	IHC	p_WJ_chol_091	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_092_T	negative	0	MSK	IHC	p_WJ_chol_092	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_093_T	negative	0	MSK	IHC	p_WJ_chol_093	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_094_T	negative	0	MSK	IHC	p_WJ_chol_094	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_095_T	negative	0	MSK	IHC	p_WJ_chol_095	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_096_T	negative	0	MSK	IHC	p_WJ_chol_096	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_103_T	negative	0	MSK	IHC	p_WJ_chol_103	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_106_T	negative	0	MSK	IHC	p_WJ_chol_106	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	FALSE
+s_WJ_chol_108_T	negative	1	MSK	IHC	p_WJ_chol_108	Metastatic disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_109_T	negative	0	MSK	IHC	p_WJ_chol_109	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_111_T	negative	0	MSK	IHC	p_WJ_chol_111	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_113_T	negative	0	MSK	IHC	p_WJ_chol_113	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_114_T	negative	0	MSK	IHC	p_WJ_chol_114	Solitary liver tumor	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+s_WJ_chol_116_T	negative	0	MSK	IHC	p_WJ_chol_116	Multifocal liver disease	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+sia_ICC10	negative		sia	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+sia_ICC12	negative		sia	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+sia_ICC14	negative		sia	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+sia_ICC16	negative		sia	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+sia_ICC18	negative		sia	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+sia_ICC22	negative		sia	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	FALSE
+sia_ICC24	negative		sia	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	TRUE	TRUE
+sia_ICC8	negative		sia	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""	FALSE	TRUE
+wardell_HK02	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	4	HK02	WES	ICC	""	69	""	4	1	4	M	por	Nonsmoker	None	FALSE	
+wardell_HK03	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	HK03	WES	ICC	""	55	""	3	0	3	M	mod	Smoker	None	FALSE	
+wardell_HK05	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	HK05	WES	ICC	""	62	""	3	0	3	F	adeno-squamous	Smoker	HBV	FALSE	
+wardell_HK08	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	4	HK08	WES	ICC	""	50	""	4	1	4	M	muc	Smoker	HCV	FALSE	
+wardell_HK09	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	4	HK09	WES	ICC	""	58	""	4	0	4	M	mod	Smoker	None	FALSE	
+wardell_HK10	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	HK10	WES	ICC	""	76	""	3	0	3	M	well	Smoker	None	FALSE	
+wardell_HK100	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	HK100	WES	ICC	""	64	""	3	2	3	M	mod	Smoker	None	FALSE	
+wardell_HK101	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	HK101	WES	ICC	""	73	""	3	0	3	M	mod	Smoker	None	FALSE	
+wardell_HK102	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	2	HK102	WES	PHC	""	75	""	2	0	2	F	mod	Nonsmoker	None	FALSE	
+wardell_HK103	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	2	HK103	WES	ICC	""	61	""	2	0	2	M	mod	Nonsmoker	None	FALSE	
+wardell_HK109	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	4	HK109	WES	PHC	""	60	""	2	1	2	M	well	Smoker	None	FALSE	
+wardell_HK11	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	4	HK11	WES	ICC	""	61	""	3	1	4	M	mod	Smoker	None	FALSE	
+wardell_HK110	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	4	HK110	WES	DCC	""	60	""	3	1	2	F	well	Unknown	None	FALSE	
+wardell_HK111	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	4	HK111	WES	PHC	""	71	""	4	0	4	M	mod	Nonsmoker	None	FALSE	
+wardell_HK113	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	2	HK113	WES	PHC	""	64	""	2	0	2	M	mod	Nonsmoker	None	FALSE	
+wardell_HK114	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	2	HK114	WES	PHC	""	75	""	2	0	2	F	well	Unknown	None	FALSE	
+wardell_HK115	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	1	HK115	WES	DCC	""	52	""	2	0	1	M	well	Exsmoker	None	FALSE	
+wardell_HK12	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	HK12	WES	ICC	""	72	""	3	0	3	M	mod	Smoker	None	FALSE	
+wardell_HK129	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	2	HK129	WES	DCC	""	63	""	3	0	2	M	por	Nonsmoker	None	FALSE	
+wardell_HK13	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	4	HK13	WES	ICC	""	71	""	3	1	4	F	well	Nonsmoker	None	FALSE	
+wardell_HK14	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	HK14	WES	ICC	""	55	""	3	0	3	M	mod	Smoker	None	FALSE	
+wardell_HK141	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	2	HK141	WES	PHC	""	60	""	2	0	2	M	mod	Nonsmoker	None	FALSE	
+wardell_HK15	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	4	HK15	WES	ICC	""	71	""	4	0	4	M	por	Nonsmoker	None	FALSE	
+wardell_HK16	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	4	HK16	WES	ICC	""	55	""	4	1	4	M	mod	Exsmoker	None	FALSE	
+wardell_HK17	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	4	HK17	WES	ICC	""	71	""	4	1	4	M	mod	Unknown	None	FALSE	
+wardell_HK21	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	4	HK21	WES	ICC	""	53	""	4	1	4	M	mod	Unknown	None	FALSE	
+wardell_HK22	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	HK22	WES	ICC	""	68	""	3	0	3	F	mod	Nonsmoker	HCV	FALSE	
+wardell_HK24	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	HK24	WES	ICC	""	66	""	3	0	3	F	mod	Nonsmoker	None	FALSE	
+wardell_HK25	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	HK25	WES	ICC	""	80	""	3	0	3	F	mod	Nonsmoker	None	FALSE	
+wardell_HK26	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	3	HK26	WES	PHC	""	74	""	3	0	3	M	por	Nonsmoker	None	FALSE	
+wardell_HK27	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	2	HK27	WES	PHC	""	66	""	2	0	2	F	well	Nonsmoker	None	FALSE	
+wardell_HK28	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	3	HK28	WES	PHC	""	56	""	2	2	3	M	mod	Smoker	None	FALSE	
+wardell_HK30	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	4	HK30	WES	PHC	""	52	""	2	1	3	M	mod	Smoker	None	FALSE	
+wardell_HK31	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	4	HK31	WES	PHC	""	65	""	4	1	4	F	mod	Nonsmoker	None	FALSE	
+wardell_HK33	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	1	HK33	WES	PHC	""	67	""	1	0	1	M	well	Smoker	None	FALSE	
+wardell_HK34	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	4	HK34	WES	PHC	""	61	""	4	0	4	M	mod	Smoker	None	FALSE	
+wardell_HK35	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	2	HK35	WES	PHC	""	66	""	2	0	2	M	mod	Smoker	None	FALSE	
+wardell_HK38	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	4	HK38	WES	PHC	""	72	""	2	1	3	M	mod	Smoker	None	FALSE	
+wardell_HK39	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	3	HK39	WES	PHC	""	76	""	2	2	3	M	mod	Smoker	None	FALSE	
+wardell_HK40	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	4	HK40	WES	PHC	""	57	""	4	0	4	M	por	Smoker	HBV	FALSE	
+wardell_HK41	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	1	HK41	WES	PHC	""	64	""	1	0	1	M	well	Nonsmoker	None	FALSE	
+wardell_HK42	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	2	HK42	WES	PHC	""	73	""	2	0	2	M	mod	Exsmoker	None	FALSE	
+wardell_HK43	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	2	HK43	WES	PHC	""	65	""	2	0	2	F	mod	Smoker	None	FALSE	
+wardell_HK44	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	4	HK44	WES	PHC	""	44	""	2	1	3	M	mod	Unknown	None	FALSE	
+wardell_HK46	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	4	HK46	WES	DCC	""	55	""	2	1	2	M	mod	Exsmoker	None	FALSE	
+wardell_HK47	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	3	HK47	WES	DCC	""	72	""	3	0	3	M	mod	Unknown	None	FALSE	
+wardell_HK50	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	2	HK50	WES	PHC	""	76	""	2	0	2	M	por	Exsmoker	None	FALSE	
+wardell_HK51	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	2	HK51	WES	DCC	""	71	""	2	0	2	M	well	Unknown	None	FALSE	
+wardell_HK53	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	4	HK53	WES	DCC	""	70	""	3	1	3	M	mod	Smoker	None	FALSE	
+wardell_HK54	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	4	HK54	WES	DCC	""	80	""	3	1	4	M	mod	Exsmoker	None	FALSE	
+wardell_HK55	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	4	HK55	WES	DCC	""	47	""	3	1	3	M	mod	Smoker	None	FALSE	
+wardell_HK57	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	3	HK57	WES	DCC	""	76	""	3	0	3	M	por	Smoker	None	FALSE	
+wardell_HK59	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	1	HK59	WES	DCC	""	75	""	1	0	1	M	mod	Unknown	None	FALSE	
+wardell_HK60	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	1	HK60	WES	DCC	""	70	""	1	0	1	M	well	Nonsmoker	None	FALSE	
+wardell_HK61	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	4	HK61	WES	DCC	""	73	""	2	1	2	M	mod	Smoker	None	FALSE	
+wardell_HK62	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	4	HK62	WES	DCC	""	78	""	2	1	2	M	mod	Nonsmoker	None	FALSE	
+wardell_HK63	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	4	HK63	WES	DCC	""	54	""	3	1	3	M	well	Nonsmoker	None	FALSE	
+wardell_HK64	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	1	HK64	WES	DCC	""	72	""	2	0	1	M	well	Unknown	None	FALSE	
+wardell_HK65	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	2	HK65	WES	DCC	""	74	""	3	0	2	F	mod	Nonsmoker	None	FALSE	
+wardell_HK66	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	1	HK66	WES	DCC	""	51	""	2	0	1	M	mod	Smoker	None	FALSE	
+wardell_HK67	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	4	HK67	WES	DCC	""	78	""	2	1	2	M	mod	Nonsmoker	None	FALSE	
+wardell_HK68	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	2	HK68	WES	DCC	""	78	""	3	0	2	F	well	Nonsmoker	None	FALSE	
+wardell_HK69	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	1	HK69	WES	DCC	""	72	""	1	0	1	M	mod	Unknown	None	FALSE	
+wardell_HK70	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	2	HK70	WES	DCC	""	71	""	3	0	2	M	mod	Nonsmoker	None	FALSE	
+wardell_HK80	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	4	HK80	WES	PHC	""	68	""	3	1	3	M	well	Nonsmoker	None	FALSE	
+wardell_HK98	negative	0	wardell	PHC	""	""	""	""	Japanese	""	""	""	2	HK98	WES	PHC	""	61	""	2	0	2	F	mod	Unknown	None	FALSE	
+wardell_OS01	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	2	OS01	WES	ICC	""	74	""	2	0	2	M	cyst-adenocarcinoma	Nonsmoker	None	FALSE	
+wardell_RK073	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	1	RK073	WGS	ICC	""	62	""	1	0	1	M	mod	Nonsmoker	HBV	FALSE	
+wardell_RK109	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	2	RK109	WGS	ICC	""	84	""	2	0	2	M	cholangiocellular carcinoma	Nonsmoker	HCV	FALSE	
+wardell_RK137	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	RK137	WGS	ICC	""	74	""	3	0	3	F	mod	Nonsmoker	HCV	FALSE	
+wardell_RK138	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	2	RK138	WGS	ICC	""	75	""	3	0	2	F	por	Nonsmoker	None	FALSE	
+wardell_RK142	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	1	RK142	WGS	ICC	""	57	""	1	0	1	M	well	Smoker	None	FALSE	
+wardell_RK146	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	2	RK146	WGS	ICC	""	57	""	2	0	2	F	mod	Smoker	HBV	FALSE	
+wardell_RK182	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	RK182	WGS	ICC	""	65	""	3	0	3	M	mod	Nonsmoker	HCV	FALSE	
+wardell_RK194	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	RK194	WGS	ICC	""	67	""	3	0	3	M	well	Nonsmoker	None	FALSE	
+wardell_RK204	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	1	RK204	WGS	ICC	""	83	""	1	0	1	M	well	Smoker	HCV	FALSE	
+wardell_RK208	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	RK208	WGS	ICC	""	60	""	3	0	3	M	mod	Nonsmoker	None	FALSE	
+wardell_RK226	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	RK226	WGS	ICC	""	59	""	3	0	3	M	mod	Nonsmoker	HBV	FALSE	
+wardell_RK269	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	1	RK269	WGS	ICC	""	74	""	1	0	1	M	well	Smoker	None	FALSE	
+wardell_RK272	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	2	RK272	WGS	ICC	""	78	""	2	0	2	M	mod	Nonsmoker	None	FALSE	
+wardell_RK279	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	RK279	WGS	ICC	""	69	""	3	0	3	M	mod	Nonsmoker	HCV	TRUE	
+wardell_RK298	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	RK298	WGS	ICC	""	68	""	3	0	3	M	por	Nonsmoker	HCV	FALSE	
+wardell_RK303	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	2	RK303	WGS	ICC	""	76	""	2	0	2	M	cholangiocellular carcinoma	Nonsmoker	None	FALSE	
+wardell_RK307	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	4	RK307	WGS	ICC	""	61	""	4	1	4	F	mod	Nonsmoker	None	FALSE	
+wardell_RK308	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	RK308	WGS	ICC	""	70	""	3	0	3	F	mod	Nonsmoker	None	FALSE	
+wardell_RK309	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	4	RK309	WGS	ICC	""	56	""	4	1	4	M	mod	Smoker	None	FALSE	
+wardell_RK310	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	RK310	WGS	ICC	""	62	""	3	0	3	F	mod	Nonsmoker	None	FALSE	
+wardell_RK312	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	4	RK312	WGS	ICC	""	66	""	3	1	4	M	mod	Smoker	HBV	FALSE	
+wardell_RK316	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	4	RK316	WGS	ICC	""	54	""	3	3	4	F	mod	Smoker	None	FALSE	
+wardell_RK317	negative	0	wardell	IHC	""	""	""	""	Japanese	""	""	""	3	RK317	WGS	ICC	""	73	""	3	0	3	M	mod	Smoker	HBV	FALSE	
+wardell_RK419	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	3	RK419	WGS	DCC	""	71	""	3	0	3	F	mod	Nonsmoker	None	FALSE	
+wardell_RK420	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	4	RK420	WGS	DCC	""	67	""	3	1	4	M	mod	Smoker	None	FALSE	
+wardell_RK421	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	1	RK421	WGS	DCC	""	77	""	1	0	1	F	por	Nonsmoker	None	FALSE	
+wardell_RK422	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	2	RK422	WGS	DCC	""	70	""	2	0	2	M	por	Smoker	HBV	FALSE	
+wardell_RK423	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	4	RK423	WGS	DCC	""	75	""	2	1	3	M	muc	Nonsmoker	None	FALSE	
+wardell_RK424	negative	0	wardell	DCC	""	""	""	""	Japanese	""	""	""	4	RK424	WGS	DCC	""	69	""	2	1	3	M	well	Smoker	None	FALSE	
+yale_G1400T	negative		yale	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1401T	negative		yale	DCC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1402T	negative		yale	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1403T	negative		yale	DCC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1404T	negative		yale	DCC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1405T	negative		yale	DCC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1406T	negative		yale	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1407T	negative		yale	DCC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1408T	negative		yale	DCC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1409T	negative		yale	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1410T	negative		yale	EHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1411T	negative		yale	EHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1412T	negative		yale	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1414T	negative		yale	EHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1415T	negative		yale	EHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1418T	negative		yale	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1419T	negative		yale	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+yale_G1420T	negative		yale	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-01	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-03	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-05	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-07	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-09	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-103	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-107	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-11	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-113	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-115	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-119	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-123	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-13	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-15	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-17	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-19	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-21	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-23	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-25	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-27	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-29	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-31	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-33	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-35	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-37	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-39	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-41	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-43	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-45	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-47	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-49	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-51	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-53	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-55	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-57	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-59	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-61	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-63	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-65	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-67	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-69	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-71	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-73	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-75	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-77	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-79	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-81	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-83	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-85	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-87	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-89	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-91	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-93	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-95	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-97	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_D70036-99	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_LD8k0719	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_LD8k0721	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_LD8k0723	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_LD8k4447	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_LD8k4451	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_LD8k4455	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_LD8k4461	""		zhang	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_LD8k4465	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_LD8k4467	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_LD8k4471	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zhang_LD8k4474	""		zhang	PHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_01	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_02	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_03	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_05	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_06	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_07	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_08	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_09	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_10	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_100	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_101	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_107	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_108	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_109	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_110	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_111	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_112	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_113	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_115	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_116	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_118	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_119	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_120	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_121	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_122	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_123	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_125	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_127	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_128	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_129	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_13	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_130	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_131	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_132	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_133	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_134	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_135	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_137	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_139	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_140	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_141	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_142	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_143	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_144	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_145	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_146	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_147	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_16	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_17	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_18	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_19	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_20	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_24	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_25	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_26	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_28	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_29	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_33	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_34	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_35	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_39	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_41	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_42	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_44	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_46	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_48	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_50	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_51	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_52	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_53	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_56	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_58	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_59	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_60	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_61	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_63	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_64	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_66	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_67	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_69	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_70	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_71	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_74	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_79	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_80	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_81	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_82	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_85	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_86	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_87	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_88	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_89	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_8_1	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_8_2	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_8_4	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_8_6	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_90	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_91	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_94	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_95	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_97	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_98	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
+zou_99	negative		zou	IHC	""	""	""	""	""	""	""	""	""	""	""	""	""		""	""	""	""	""	""	""	""		
